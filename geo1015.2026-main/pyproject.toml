@@ -1,0 +1,10 @@
+[project]
+name = "geo1015-2026"
+version = "0.1.0"
+description = "Files related to GEO1015.2026"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "rasterio>=1.5.2",
+    "startinpy>=0.12.3",
+]
